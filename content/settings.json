@@ -1,10 +1,10 @@
 {
   "domain": "lojahaitai.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#f46737",
+  "primary_color": "#e94007",
   "theme": {
-    "bootswatch": "superhero",
-    "custom": "clean-white"
+    "bootswatch": "cerulean",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-haitai-nordeste.png",
