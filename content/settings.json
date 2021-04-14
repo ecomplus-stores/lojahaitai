@@ -1,9 +1,9 @@
 {
   "domain": "lojahaitai.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#f46737",
   "theme": {
-    "bootswatch": "lumen",
+    "bootswatch": "solar",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
