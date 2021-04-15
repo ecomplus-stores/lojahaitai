@@ -18,11 +18,8 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/maquinarios?Maquinários",
-      "/sublimacao?Sublimação"
-    ],
-    "random": 6,
+    "featured": [],
+    "random": 8,
     "full_width": true
   },
   "search_input": true
