@@ -1,1 +1,11 @@
 // Add your custom CSS here.
+#product-actions .prices__value +span {
+  display: flex;
+  flex-direction: column
+}
+#product-actions .prices__discount {
+  order: 1
+}
+#product-actions .prices__installments {
+  order: 2
+}
