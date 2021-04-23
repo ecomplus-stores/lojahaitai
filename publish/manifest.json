@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6b81d0f25ae6d32103207439f337734f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f8923d6e4ff6d133bdbc6fb18ef1f6ac.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.505d73f870d45d314a145f2f39e4783c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.02db63ec9ee713f9fb301921be1f8da1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.bb47fe8525ee0ea6ec0d17a34bd61363.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Loja Haitai Nordeste",
+  "short_name": "lojahaitai",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "lojahaitai",
+  "background_color": "#ffffff",
+  "theme_color": "#e94007"
+}
