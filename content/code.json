@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "\n/*inversao preços*/\n#product-actions .prices__value +span {\n  display: flex;\n  flex-direction: column\n}\n#product-actions .prices__discount {\n  order: 1\n}\n#product-actions .prices__installments {\n  order: 2\n}\n\n/*inversao preços*/",
   "html_head": "",
   "html_body": ""
 }
